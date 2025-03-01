@@ -1,0 +1,14 @@
+/home/yann/Programming/strukdat/helloworld/NumAndMath/bin/Debug/net9.0/NumAndMath
+/home/yann/Programming/strukdat/helloworld/NumAndMath/bin/Debug/net9.0/NumAndMath.deps.json
+/home/yann/Programming/strukdat/helloworld/NumAndMath/bin/Debug/net9.0/NumAndMath.runtimeconfig.json
+/home/yann/Programming/strukdat/helloworld/NumAndMath/bin/Debug/net9.0/NumAndMath.dll
+/home/yann/Programming/strukdat/helloworld/NumAndMath/bin/Debug/net9.0/NumAndMath.pdb
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/NumAndMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/NumAndMath.AssemblyInfoInputs.cache
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/NumAndMath.AssemblyInfo.cs
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/NumAndMath.csproj.CoreCompileInputs.cache
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/NumAndMath.dll
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/refint/NumAndMath.dll
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/NumAndMath.pdb
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/NumAndMath.genruntimeconfig.cache
+/home/yann/Programming/strukdat/helloworld/NumAndMath/obj/Debug/net9.0/ref/NumAndMath.dll

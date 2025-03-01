@@ -1,0 +1,14 @@
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/bin/Debug/net9.0/PrecisionAndCasting
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/bin/Debug/net9.0/PrecisionAndCasting.deps.json
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/bin/Debug/net9.0/PrecisionAndCasting.runtimeconfig.json
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/bin/Debug/net9.0/PrecisionAndCasting.dll
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/bin/Debug/net9.0/PrecisionAndCasting.pdb
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/PrecisionAndCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/PrecisionAndCasting.AssemblyInfoInputs.cache
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/PrecisionAndCasting.AssemblyInfo.cs
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/PrecisionAndCasting.csproj.CoreCompileInputs.cache
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/PrecisionAndCasting.dll
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/refint/PrecisionAndCasting.dll
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/PrecisionAndCasting.pdb
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/PrecisionAndCasting.genruntimeconfig.cache
+/home/yann/Programming/strukdat/helloworld/PrecisionAndCasting/obj/Debug/net9.0/ref/PrecisionAndCasting.dll

@@ -1,0 +1,14 @@
+/home/yann/Programming/strukdat/helloworld/SearchingString/bin/Debug/net9.0/SearchingString
+/home/yann/Programming/strukdat/helloworld/SearchingString/bin/Debug/net9.0/SearchingString.deps.json
+/home/yann/Programming/strukdat/helloworld/SearchingString/bin/Debug/net9.0/SearchingString.runtimeconfig.json
+/home/yann/Programming/strukdat/helloworld/SearchingString/bin/Debug/net9.0/SearchingString.dll
+/home/yann/Programming/strukdat/helloworld/SearchingString/bin/Debug/net9.0/SearchingString.pdb
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/SearchingString.GeneratedMSBuildEditorConfig.editorconfig
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/SearchingString.AssemblyInfoInputs.cache
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/SearchingString.AssemblyInfo.cs
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/SearchingString.csproj.CoreCompileInputs.cache
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/SearchingString.dll
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/refint/SearchingString.dll
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/SearchingString.pdb
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/SearchingString.genruntimeconfig.cache
+/home/yann/Programming/strukdat/helloworld/SearchingString/obj/Debug/net9.0/ref/SearchingString.dll

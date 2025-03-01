@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZ7folCdBLI=",
+  "success": true,
+  "projectFilePath": "/home/yann/Programming/strukdat/helloworld/ForLoops/ForLoops.csproj",
+  "expectedPackageFiles": [
+    "/home/yann/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

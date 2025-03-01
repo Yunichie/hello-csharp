@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcek9982C7E=",
+  "success": true,
+  "projectFilePath": "/home/yann/Programming/strukdat/helloworld/StringBasics/StringBasics.csproj",
+  "expectedPackageFiles": [
+    "/home/yann/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

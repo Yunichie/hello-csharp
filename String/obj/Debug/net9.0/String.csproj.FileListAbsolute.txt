@@ -1,0 +1,14 @@
+/home/yann/Programming/strukdat/helloworld/String/bin/Debug/net9.0/String
+/home/yann/Programming/strukdat/helloworld/String/bin/Debug/net9.0/String.deps.json
+/home/yann/Programming/strukdat/helloworld/String/bin/Debug/net9.0/String.runtimeconfig.json
+/home/yann/Programming/strukdat/helloworld/String/bin/Debug/net9.0/String.dll
+/home/yann/Programming/strukdat/helloworld/String/bin/Debug/net9.0/String.pdb
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/String.AssemblyInfoInputs.cache
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/String.AssemblyInfo.cs
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/String.csproj.CoreCompileInputs.cache
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/String.dll
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/refint/String.dll
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/String.pdb
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/String.genruntimeconfig.cache
+/home/yann/Programming/strukdat/helloworld/String/obj/Debug/net9.0/ref/String.dll

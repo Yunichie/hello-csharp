@@ -1,0 +1,14 @@
+/home/yann/Programming/strukdat/helloworld/StringBasics/bin/Debug/net9.0/StringBasics
+/home/yann/Programming/strukdat/helloworld/StringBasics/bin/Debug/net9.0/StringBasics.deps.json
+/home/yann/Programming/strukdat/helloworld/StringBasics/bin/Debug/net9.0/StringBasics.runtimeconfig.json
+/home/yann/Programming/strukdat/helloworld/StringBasics/bin/Debug/net9.0/StringBasics.dll
+/home/yann/Programming/strukdat/helloworld/StringBasics/bin/Debug/net9.0/StringBasics.pdb
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/StringBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/StringBasics.AssemblyInfoInputs.cache
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/StringBasics.AssemblyInfo.cs
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/StringBasics.csproj.CoreCompileInputs.cache
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/StringBasics.dll
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/refint/StringBasics.dll
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/StringBasics.pdb
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/StringBasics.genruntimeconfig.cache
+/home/yann/Programming/strukdat/helloworld/StringBasics/obj/Debug/net9.0/ref/StringBasics.dll
